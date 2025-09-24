@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 21 years old<br>📚 I'm currently learning a bunch of stuff<br>🎯 I'm striving to research AI</p>
+<p align="left">✨ 22 years old<br>📚 I'm currently learning a bunch of stuff<br>🎯 I'm striving to suck my own balls with AI </p>
 
 ###
 
