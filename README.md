@@ -51,11 +51,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=gonnarxpeyou&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/maritschim/count.svg?"  />
-</div>
-
-###
