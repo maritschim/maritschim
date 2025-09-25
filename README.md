@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Marius, aspiring AI Engineer from Germany 🤖</p>
+<p align="left">I'm Marius, aspiring AI Engineer from Germany 🤖<br>I don't actually care about any of this shit 💩</p>
 
 ###
 
